@@ -1,4 +1,4 @@
-![image](https://github.com/Drunkriver/w-hat_core/assets/39641277/71cc7447-ea3a-4827-bec4-8ae28e66a6f9)技术选型
+技术选型
 Spring Boot + JPA + Ehcache + Lucene
 
 使用平台

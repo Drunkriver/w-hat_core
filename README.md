@@ -1,4 +1,4 @@
-技术选型
+![社区2](https://github.com/Drunkriver/w-hat_core/assets/39641277/d3d9f95d-8ea9-4188-aa4f-1b3e87c74dd7)技术选型
 Spring Boot + JPA + Ehcache + Lucene
 
 使用平台
@@ -57,4 +57,12 @@ JDK 1.8及以上 + MySQL 5.5.3及以上
 （17）第三方服务管理(第三方登录接口列表)
 
 （18）缩略图管理(缩略图列表)
+
+
+![社区1](https://github.com/Drunkriver/w-hat_core/assets/39641277/3aaf0fd0-b9a6-4ec4-a03c-7e926e5c7000)
+![社区2](https://github.com/Drunkriver/w-hat_core/assets/39641277/acd00be0-41e9-42c1-bcc7-20f8c0bc143f)
+![社区3](https://github.com/Drunkriver/w-hat_core/assets/39641277/334c9c07-3a47-4af9-85eb-6dc1fd001dbe)
+![社区4](https://github.com/Drunkriver/w-hat_core/assets/39641277/34fd8ba1-d249-4ed8-a8a7-8a16827dd504)
+
+
 
